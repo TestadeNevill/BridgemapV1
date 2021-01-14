@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bridgemapv1/static/css/main.b1f4fb52.chunk.css",
+    "main.js": "/Bridgemapv1/static/js/main.5dc7364c.chunk.js",
+    "main.js.map": "/Bridgemapv1/static/js/main.5dc7364c.chunk.js.map",
+    "runtime-main.js": "/Bridgemapv1/static/js/runtime-main.af06527a.js",
+    "runtime-main.js.map": "/Bridgemapv1/static/js/runtime-main.af06527a.js.map",
+    "static/css/2.8d682a32.chunk.css": "/Bridgemapv1/static/css/2.8d682a32.chunk.css",
+    "static/js/2.6bcdd9c2.chunk.js": "/Bridgemapv1/static/js/2.6bcdd9c2.chunk.js",
+    "static/js/2.6bcdd9c2.chunk.js.map": "/Bridgemapv1/static/js/2.6bcdd9c2.chunk.js.map",
+    "static/js/3.8c7087d9.chunk.js": "/Bridgemapv1/static/js/3.8c7087d9.chunk.js",
+    "static/js/3.8c7087d9.chunk.js.map": "/Bridgemapv1/static/js/3.8c7087d9.chunk.js.map",
+    "index.html": "/Bridgemapv1/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/Bridgemapv1/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.b1f4fb52.chunk.css.map": "/Bridgemapv1/static/css/main.b1f4fb52.chunk.css.map",
+    "static/js/2.6bcdd9c2.chunk.js.LICENSE.txt": "/Bridgemapv1/static/js/2.6bcdd9c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af06527a.js",
+    "static/css/2.8d682a32.chunk.css",
+    "static/js/2.6bcdd9c2.chunk.js",
+    "static/css/main.b1f4fb52.chunk.css",
+    "static/js/main.5dc7364c.chunk.js"
+  ]
+}
