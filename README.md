@@ -1,0 +1,1 @@
+This app is intented to provide various weather updates using multiple API's. This app uses Google's Login, Map, Locations and Directions API's to provide information on local businesses. By using frameworks such as Mongo, Express, Node amd React.
